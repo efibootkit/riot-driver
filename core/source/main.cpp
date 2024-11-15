@@ -1,9 +1,3 @@
-/*
-
-	- Credits to Shade for the Instrumentation Callback method
-
-*/
-
 #include <core/linkers/handler.h>
 
 using namespace riot;
